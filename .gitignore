@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large files hosted as GitHub Release assets instead of being committed
+# (both exceed GitHub's 100MB per-file limit for normal git pushes):
+trajectories_all_vehicles.csv
+trajectories_labeled_all_vehicles.csv
